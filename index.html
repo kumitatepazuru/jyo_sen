@@ -13,6 +13,7 @@
     <meta name="fragment" content="!">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/ConnorAtherton/loaders.css/master/loaders.min.css">
     <meta charset="UTF-8">
     <style type="text/css">
     /* hide the main content while we assemble everything */
@@ -86,6 +87,27 @@
         background-color: !important;
         font-size: smaller;
         padding: 1em;
+    }
+    #loader-bg {
+        display: none;
+        position: fixed;
+        width: 100%;
+        height: 100% !important;
+        background-color: #ffb35c;
+        z-index: 1;
+    }
+    #loader {
+        display: none;
+        position: absolute;
+        top: 45%;
+        width: 100%;
+        height: 250px !important;
+        text-align: center;
+        color: #fff;
+        z-index: 2;
+    }
+    #loader span{
+        display: none !important;
     }
     </style>
 
@@ -201,6 +223,30 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
 <!-- END dist/MDwiki.min.js -->
 </head>
 <body>
+    <div id="loader-bg">
+        <div id="loader">
+            <h1>Kumitatepazuru's Github<br></h1>
+            <h4>Robocup soccer 2D jyosen team blog</h4>
+            <h4>cszp Easy soccer execution program WIKI</h4><br>
+            <div class="ball-pulse-sync">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(function() {
+            var h = $(window).height(); // ブラウザウィンドウの高さを取得する
+            $('#contents').css('display','none'); // コンテンツを非表示にする
+            $('#loader-bg ,#loader').height(h).css('display','block');//ローディング画像を表示
+        });
+        $(window).on('load', function () { // 読み込み完了したら実行する
+            $('#loader-bg').delay(500).fadeOut(800);// ローディングを隠す
+            $('#loader').delay(500).fadeOut(300);
+            $('#md-all').css('display', 'block');// コンテンツを表示する
+        });
+    </script>
     <style>
         img {
             width: 100%;
@@ -231,12 +277,6 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
     
         .md-content ul li:last-of-type {
             border-bottom: none !important;
-        }
-        p,a,td {
-            font-size: 15px;
-        }
-        .navbar-brand {
-            font-size: 22px;
         }
     </style>
     <noscript>

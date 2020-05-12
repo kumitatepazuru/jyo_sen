@@ -1,15 +1,12 @@
-# Robocup soccer 2D jyosen team blog
-Robocup soccer 2D jyosenチームの活動ブログです。
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>リダイレクト</title>
+<meta http-equiv="refresh" content="0;#!index_jp.md">
+</head>
 
-------
+<body>
+<br>
+</body>
 
-#### Robocup soccer 2Dリーグのjyosenチームのblogです。上のcontentから見たいコンテンツを選択してください。
-<br><br>
-
-### 謝辞
-
-[こちら](https://kumitatepazuru.github.io/#!index.md)をご確認ください。
-
-### お知らせ
-
-特にありません。
+</html>

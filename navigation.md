@@ -3,6 +3,6 @@
 
   * [Home](index.md)
 
-[cszp Easy soccer execution program WIKI](../cszp/)
-[kumitatepazuruのgithub](../)
+[cszp Easy soccer execution program WIKI](../cszp/jp/#!index.md)
+[kumitatepazuruのgithub](../#!index.md)
 [gimmick:theme](simplex)
