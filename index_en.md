@@ -11,7 +11,7 @@ This is the activity blog of Robocup soccer2D jyosen team.
 
 ### THANKS.
 
-Check the [This is it.](https://kumitatepazuru.github.io/#!index.md).
+Check the [This is it.](https://kumitatepazuru.github.io/#!index.md)
 
 ### Notice
 
