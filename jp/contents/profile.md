@@ -34,7 +34,7 @@ Jyo_senは2019年に開かれたJapanOpen2019に初参加し、10チーム中５
 HFO(Half Field Offense)というプラットフォームを使って、PK戦のキッカーの動きを改善するための強化学習を行いました。強化学習で学んだ動きをJyo_sen2020に移植したところ、シュート角度をつけることによってキーパーのいない場所にシュートを打てるようになりましたが、シュートを打つ準備をしているときにキーパーに追いつかれてしまうという課題も発生しました。そのような課題を解決することによって、キッカーの得点力をさらに高めるように改善していく予定です。
 
 Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork
-http://www.cs.utexas.edu/~AustinVilla/sim/halffieldoffense/ 
+[詳しくはこちら](http://www.cs.utexas.edu/~AustinVilla/sim/halffieldoffense/)
 
 ## 最後に
 質問等はこちらまでお願いします。
