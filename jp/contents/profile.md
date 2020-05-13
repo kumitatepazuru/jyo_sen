@@ -11,7 +11,7 @@ Jyo_senは中学生から社会人のメンバー約10名で構成されてい�
 秋葉原プログラミング教室を主催していた清水亮は新潟県長岡市の出身であることから、Jyo_senというチーム名は長岡藩の藩主である牧野家の家訓である「常在戦場」から取っています。
 
 【RoboCup】C++を始めて4ヶ月でAIサッカー全国大会に挑戦する小学生と素人軍団【2D Sim】
-[詳しくはこちら](https://wirelesswire.jp/2019/08/71988/)
+https://wirelesswire.jp/2019/08/71988/
 
 ## 実績
 
@@ -25,7 +25,7 @@ Jyo_senは2019年に開かれたJapanOpen2019に初参加し、10チーム中５
 <br/>
 
 2021年に実施予定のRobocup世界大会の出場資格も得ています。
-[詳しくはこちら](https://2020.robocup.org/en/home/)
+https://2020.robocup.org/en/home/
 
 ## 強化学習を使ったPK戦のキッカーの動きの改善
 
@@ -34,7 +34,7 @@ Jyo_senは2019年に開かれたJapanOpen2019に初参加し、10チーム中５
 HFO(Half Field Offense)というプラットフォームを使って、PK戦のキッカーの動きを改善するための強化学習を行いました。強化学習で学んだ動きをJyo_sen2020に移植したところ、シュート角度をつけることによってキーパーのいない場所にシュートを打てるようになりましたが、シュートを打つ準備をしているときにキーパーに追いつかれてしまうという課題も発生しました。そのような課題を解決することによって、キッカーの得点力をさらに高めるように改善していく予定です。
 
 Half Field Offense: An Environment for Multiagent Learning and Ad Hoc Teamwork
-[詳しくはこちら](http://www.cs.utexas.edu/~AustinVilla/sim/halffieldoffense/)
+http://www.cs.utexas.edu/~AustinVilla/sim/halffieldoffense/
 
 ## 最後に
 質問等はこちらまでお願いします。
