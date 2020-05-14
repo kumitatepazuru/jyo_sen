@@ -16,5 +16,3 @@ Robocup soccer 2D jyosenチームの活動ブログです。
 | Date       | Info                                                         |
 | ---------- | ------------------------------------------------------------ |
 | 2020/05/13 | Jyo_senチームの公式youtubeチャンネルができました。<br>[こちら](https://www.youtube.com/channel/UCZN5FOYksJbm82yg1iaTkoQ)です。 |
-
-
