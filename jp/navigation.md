@@ -4,7 +4,11 @@
   * [Home](index.md)
   * [私達について](contents/profile.md)
 
-[cszp Easy soccer execution program WIKI](../../cszp/jp/#!index.md)
-[kumitatepazuru's github](../../#!index.md)
-[kumitatepazuru's blog](../../blog/#!index.md)
+[Links]()
+
+  * [cszp Easy soccer execution program WIKI](../../cszp/jp/#!index.md)
+  * [libscips WIKI](../../#!index.md)
+  * [kumitatepazuru's github](../../#!index.md)
+  * [kumitatepazuru's blog](../../blog/#!index.md)
+
 [gimmick:theme](simplex)
